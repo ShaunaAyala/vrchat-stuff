@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "slots": {
+    "lobby01": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "Kiruka",
+      "color": "#4C9EFF"
+    },
+    "lobby02": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby03": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby04": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby05": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby06": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby07": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby08": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby09": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby10": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby11": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby12": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "lobby13": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "ESPACIO DISPONIBLE",
+      "color": "#FFD18C"
+    },
+    "hostal1": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal2": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal3": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal4": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal5": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal6": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "hostal7": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "recepcion": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "mario": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "calle_monumental_ne": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    },
+    "calle_monumental_o": {
+      "n": 1,
+      "seg": 0,
+      "nombre": "",
+      "color": ""
+    }
+  },
+  "reglas": {
+    "version": 1,
+    "titulo": "REGLAS",
+    "items": [
+      "Respeta en todo momento las ToS y Community Guidelines de VRChat.",
+      "No uses avatares, shaders, sonidos o cualquier contenido que pueda crashear, molestar o perjudicar a otros usuarios.",
+      "Usa el sentido común. Que algo no esté escrito en las reglas no significa que esté permitido.",
+      "No busques vacíos legales para justificar comportamientos molestos, abusivos o dañinos.",
+      "Respeta a los demás y no arruines la experiencia de otros usuarios.",
+      "Las decisiones del staff se tomarán según la situación y el contexto.",
+      "Las reglas pueden cambiar en cualquier momento y pueden aplicarse nuevas medidas si la situación lo requiere.",
+      "El staff se reserva el derecho de actuar ante situaciones que afecten negativamente al mundo o a sus usuarios, aunque no estén contempladas específicamente en estas reglas.",
+      "El objetivo es simple: diviértete sin perjudicar a los demás."
+    ]
+  }
+}
