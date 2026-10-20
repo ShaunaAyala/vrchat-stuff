@@ -1,0 +1,1 @@
+Imágenes y configuración de los cuadros del mundo.
