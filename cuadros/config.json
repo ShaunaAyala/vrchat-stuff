@@ -1,149 +1,101 @@
 {
- "version": 2,
+ "version": 3,
  "slots": {
   "lobby01": {
    "n": 1,
-   "seg": 0,
-   "nombre": "Kiruka",
-   "color": "#4c9eff"
+   "seg": 0
   },
   "lobby02": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby03": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby04": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby05": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby06": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby07": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby08": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby09": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby10": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby11": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby12": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "lobby13": {
    "n": 1,
-   "seg": 0,
-   "nombre": "ESPACIO DISPONIBLE",
-   "color": "#ffd18c"
+   "seg": 0
   },
   "hostal1": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal2": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal3": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal4": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal5": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal6": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "hostal7": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "recepcion": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "mario": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "calle_monumental_ne": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   },
   "calle_monumental_o": {
    "n": 1,
-   "seg": 0,
-   "nombre": "",
-   "color": ""
+   "seg": 0
   }
  },
  "reglas": {
