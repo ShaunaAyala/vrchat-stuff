@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "slots": {
   "lobby01": {
    "n": 1,
@@ -327,6 +327,30 @@
    "Las reglas pueden cambiar en cualquier momento y pueden aplicarse nuevas medidas si la situación lo requiere.",
    "El staff se reserva el derecho de actuar ante situaciones que afecten negativamente al mundo o a sus usuarios, aunque no estén contempladas específicamente en estas reglas.",
    "El objetivo es simple: diviértete sin perjudicar a los demás."
+  ],
+  "titulo_en": "RULES",
+  "items_en": [
+   "Follow VRChat's Terms of Service and Community Guidelines at all times.",
+   "Don't use avatars, shaders, sounds or any other content that could crash, annoy or harm other users.",
+   "Use common sense. Just because something isn't in the rules doesn't mean it's allowed.",
+   "Don't look for loopholes to justify annoying, abusive or harmful behavior.",
+   "Respect others and don't ruin anyone else's experience.",
+   "Staff decisions are made based on the situation and context.",
+   "The rules may change at any time, and new measures may be taken if the situation calls for it.",
+   "Staff reserve the right to act on any situation that negatively affects the world or its users, even if it isn't specifically covered by these rules.",
+   "The goal is simple: have fun without hurting anyone else."
+  ],
+  "titulo_ja": "ルール",
+  "items_ja": [
+   "VRChatの利用規約とコミュニティガイドラインを常に守ってください。",
+   "他のユーザーをクラッシュさせたり、迷惑や害を与えたりするおそれのあるアバター・シェーダー・音声などは使用しないでください。",
+   "常識を持って行動してください。ルールに書かれていないからといって、許可されているわけではありません。",
+   "ルールの抜け穴を探して、迷惑行為や嫌がらせ、有害な行為を正当化しないでください。",
+   "他の人を尊重し、ほかのユーザーの楽しみを邪魔しないでください。",
+   "スタッフは状況や経緯に応じて判断します。",
+   "ルールは予告なく変更されることがあり、必要に応じて新たな対応を行う場合があります。",
+   "ワールドやユーザーに悪影響を与える状況については、このルールに明記されていない場合でも、スタッフが対応する権利を有します。",
+   "目的はシンプルです。ほかの人に迷惑をかけずに楽しみましょう！"
   ]
  },
  "formato": 2,
