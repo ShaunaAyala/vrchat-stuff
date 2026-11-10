@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "celdas": {
   "OWNER": 0,
   "DUENA": 1,
@@ -28,6 +28,7 @@
   "ROLEPLAYER": 24,
   "NUEVO": 25,
   "ELITEREGALO": 21,
+  "VIPREGALO": 22,
   "STAFF": 4
  },
  "celda": [
