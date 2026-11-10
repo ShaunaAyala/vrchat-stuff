@@ -1,0 +1,40 @@
+{
+ "version": 5,
+ "celdas": {
+  "OWNER": 0,
+  "DUENA": 1,
+  "MANAGER": 2,
+  "ADMIN": 3,
+  "MOD": 4,
+  "HELPER": 5,
+  "CELEBRITY": 6,
+  "PARTNER": 7,
+  "STREAMER": 8,
+  "FAMOUS": 9,
+  "AFILIADOA1": 10,
+  "AFILIADOA2": 11,
+  "AFILIADOA3": 12,
+  "AFILIADOB1": 13,
+  "AFILIADOB2": 14,
+  "AFILIADOB3": 15,
+  "AFILIADOC1": 16,
+  "AFILIADOC2": 17,
+  "AFILIADOC3": 18,
+  "PRESTIGE": 19,
+  "ULTIMATE": 20,
+  "ELITE": 21,
+  "VIP": 22,
+  "DONADOR": 23,
+  "ROLEPLAYER": 24,
+  "NUEVO": 25,
+  "ELITEREGALO": 21,
+  "VIPREGALO": 22,
+  "STAFF": 4
+ },
+ "celda": [
+  400,
+  250
+ ],
+ "columnas": 4,
+ "filas": 8
+}
