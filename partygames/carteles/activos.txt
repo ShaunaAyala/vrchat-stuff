@@ -1,0 +1,18 @@
+# Party Games: signs on/off (on | off). Missing line or missing file = on.
+valla1=on
+valla2=on
+valla3=on
+plaza1=on
+plaza2=on
+plaza3=on
+plaza4=on
+totem1=on
+totem2=on
+totem3=on
+sala=on
+# Fast loading (written by /carteles, don't edit): atlas layout version, then per atlas "filled cells bitmask,stamp".
+atlas=1
+atlas1=2864,7608ac6ded
+atlas2=2816,d9dd52d97d
+atlas3=2816,d9dd52d97d
+atlasfuente=445cf4a8d752
