@@ -12,7 +12,7 @@ totem3=on
 sala=on
 # Fast loading (written by /carteles, don't edit): atlas layout version, then per atlas "filled cells bitmask,stamp".
 atlas=1
-atlas1=2864,7608ac6ded
+atlas1=2816,d9dd52d97d
 atlas2=2816,d9dd52d97d
 atlas3=2816,d9dd52d97d
-atlasfuente=445cf4a8d752
+atlasfuente=5406e0a37631
